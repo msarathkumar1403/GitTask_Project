@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="6.144" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-12-08T14:16:02.750364Z">
+<testcase classname="Verifying Facebook login" name="Verifying Valid Credentials - #1.1" time="5.845">
+<system-out><![CDATA[
+Given User is on the facebook page..........................................passed
+When User enter "sarath" and "sarath@123"...................................passed
+And User clicks the login button............................................passed
+Then User should verify after login success message.........................passed
+]]></system-out>
+</testcase>
+</testsuite>
